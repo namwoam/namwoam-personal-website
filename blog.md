@@ -6,8 +6,6 @@ permalink: /blog/
 
 # Blog
 
-Welcome to my blog! Here you'll find articles about programming, web development, and technology.
-
 <div class="post-list">
 {% for post in site.posts %}
   <div class="post-item">
