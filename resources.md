@@ -8,6 +8,28 @@ permalink: /resources/
 
 Here are useful resources, primarily course materials I've prepared and compiled over the years. Feel free to browse and use them for study or teaching.
 
+
+## IM3014 — Linux System Administration Practice
+
+Lab exercises and homework assignments for this course, created and maintained by me.
+
+### Fall 2025
+
+- Week 3 — File systems, access control, and process management.
+    - [lab](/files/2025-lsap/w03lab.pdf)
+    - [homework](/files/2025-lsap/2025_lsap_hw01.pdf)
+
+- Week 7 — Software installation, user management, and LDAP.
+    - [lab](/files/2025-lsap/w07lab.pdf)
+    - [homework](/files/2025-lsap/2025_lsap_hw03.pdf)
+
+- Week 9 — Web hosting, networking, and DNS.
+    - [lab](/files/2025-lsap/w09lab.pdf)
+    - [homework](/files/2025-lsap/2025_lsap_hw04.pdf)
+
+- Week 11 — Virtualization and containers.
+    - [lab](/files/2025-lsap/w11lab.pdf)
+
 ## NTU Sprout Program (Mandarin: 資訊之芽培訓計劃)
 
 Course materials from the NTU Sprout Program made by me.

@@ -1,0 +1,17 @@
+version: '3'
+
+vars:
+  PORT: "4000"
+  HOST: "127.0.0.1"
+
+tasks:
+  dev:
+    desc: Serve local Jekyll server (uses bundle exec if Gemfile exists)
+    cmds:
+    - |
+      if [ -f Gemfile ]; then
+        bundle exec jekyll serve --livereload --drafts --future --port {{.PORT}} --host {{.HOST}}
+      else
+        jekyll serve --livereload --drafts --future --port {{.PORT}} --host {{.HOST}}
+      fi
+    silent: false
