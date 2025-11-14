@@ -28,6 +28,7 @@ Lab exercises and homework for the course, authored and maintained by me. The co
 
 - Week 11 — Virtualization and containers.
     - [lab](/files/2025-lsap/w11lab.pdf)
+    - [homework](/files/2025-lsap/2025_lsap_hw05.pdf)
 
 ## NTU Sprout Program (Mandarin: 資訊之芽培訓計劃)
 
