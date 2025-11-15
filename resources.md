@@ -6,7 +6,7 @@ permalink: /resources/
 
 # Resources
 
-Here are useful resources, primarily course materials I've prepared and compiled over the years. Feel free to browse and use them for study or teaching.
+A curated collection of resources, primarily course materials I have created or compiled. These materials are available for study and teaching.
 
 
 ## IM3014 — Linux System Administration Practice
@@ -43,3 +43,10 @@ Course materials from the NTU Sprout Program made by me.
 - Module — [slides](https://namwoam.github.io/sprout-material/py2023-taipei-module/slide.slides.html#/)
 - Coding Style — [slides](https://namwoam.github.io/sprout-material/py2023-taipei-coding_style/slide.slides.html#/)
 
+## Miscellaneous
+
+Additional materials and presentations.
+
+### Fall 2025, Data Science Study Group
+
+- Docker & Kubernetes — [slides](https://docs.google.com/presentation/d/1xClaA7ddvDKyLd6VQLga3AuBkP8wTnoxqmSceknCUNE)
