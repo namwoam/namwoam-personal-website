@@ -29,6 +29,15 @@ Lab exercises and homework for the course, authored and maintained by me. The co
 - Week 11 — Virtualization and containers.
     - [lab](/files/2025-lsap/w11lab.pdf)
     - [homework](/files/2025-lsap/2025_lsap_hw05.pdf)
+  
+
+## Data Science Study Group
+
+Course materials for a private study group hosted at NTU, created by me.
+
+- Docker & Kubernetes — [slides](https://docs.google.com/presentation/d/1xClaA7ddvDKyLd6VQLga3AuBkP8wTnoxqmSceknCUNE)
+- Unsupervised Learning - [slides](/files/2025-ds/unsupervised-learning.pdf)
+
 
 ## NTU Sprout Program (Mandarin: 資訊之芽培訓計劃)
 
@@ -43,10 +52,5 @@ Course materials from the NTU Sprout Program made by me.
 - Module — [slides](https://namwoam.github.io/sprout-material/py2023-taipei-module/slide.slides.html#/)
 - Coding Style — [slides](https://namwoam.github.io/sprout-material/py2023-taipei-coding_style/slide.slides.html#/)
 
-## Miscellaneous
 
-Additional materials and presentations.
 
-### Fall 2025, Data Science Study Group
-
-- Docker & Kubernetes — [slides](https://docs.google.com/presentation/d/1xClaA7ddvDKyLd6VQLga3AuBkP8wTnoxqmSceknCUNE)
